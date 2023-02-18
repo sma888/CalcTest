@@ -251,6 +251,11 @@ namespace CalcApp
             }
         }
 
+        private void textBox_KeyDown(object sender, System.Windows.Input.KeyEventArgs e)
+        {
+            e.Handled = true;
+        }
+
         private void PlMin_Click(object sender, RoutedEventArgs e)
         {
             if (znak == true)

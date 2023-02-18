@@ -62,7 +62,7 @@
                 <RowDefinition Height="0.7*"/>
             </Grid.RowDefinitions>
             <TextBlock Grid.Row="2" x:Name="label1" Text="" FontSize="40" HorizontalAlignment="Right" FontStyle="Italic" Foreground="Gray" Margin="0,0,10,0"/>
-            <TextBox x:Name="textBox" Text="" Grid.Row="1" TextAlignment="Right" BorderBrush="Transparent" FontSize="55"/>
+            <TextBox x:Name="textBox" Text="" Grid.Row="1" TextAlignment="Right" BorderBrush="Transparent" FontSize="55" KeyDown="textBox_KeyDown"/>
 
         </Grid>
 

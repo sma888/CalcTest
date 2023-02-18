@@ -32,3 +32,4 @@ e:\Мои документы\Магамет\C#\CalcProject\CalcApp\obj\Debug\Cal
 e:\Мои документы\Магамет\C#\CalcProject\CalcApp\obj\Debug\CalcApp.Properties.Resources.resources
 e:\Мои документы\Магамет\C#\CalcProject\CalcApp\obj\Debug\CalcApp.csproj.GenerateResource.cache
 e:\Мои документы\Магамет\C#\CalcProject\CalcApp\obj\Debug\CalcApp.csproj.CoreCompileInputs.cache
+E:\Мои документы\Магамет\C#\CalcProject\CalcApp\obj\Debug\CalcApp.csproj.SuggestedBindingRedirects.cache
